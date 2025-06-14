@@ -1,0 +1,7 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "vscode.videoPreview": true,
+        "imagePreview.previewEditor": true,
+        "mainThreadWebview-markdown.preview": true
+    }
+}
