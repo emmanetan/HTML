@@ -1,2 +1,5 @@
 let name = "John Doe";
-console.log("Hi " + name);
+let age = 30;
+let gender = "Male";
+console.log(`Name: ${name}, Age: ${age}, Gender: ${gender}`);
+
